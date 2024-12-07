@@ -1,0 +1,89 @@
+{
+  "School": [
+    "10th Pass",
+    "12th Pass (Science)",
+    "12th Pass (Commerce)",
+    "12th Pass (Arts)"
+  ],
+  "Diploma": [
+    "Computer Science",
+    "Electrical Engineering",
+    "Electronics Engineering",
+    "Civil Engineering",
+    "Mechanical Engineering",
+    "Hotel Management",
+    "Nursing",
+    "Automobile Engineering",
+    "Textile Engineering"
+  ],
+  "ITI": [
+    "Electrician",
+    "Fitter",
+    "Mechanic Motor Vehicle",
+    "Welder",
+    "Turner",
+    "Machinist",
+    "Surveyor",
+    "COPA (Computer Operator & Programming Assistant)",
+    "Plumber",
+    "Wireman",
+    "Instrument Mechanic",
+    "Draughtsman Civil"
+  ],
+  "Undergraduate": [
+    "B.Tech - Computer Science",
+    "B.Tech - Electrical Engineering",
+    "B.Tech - Electronics Engineering",
+    "B.Tech - Civil Engineering",
+    "B.Tech - Mechanical Engineering",
+    "BCA",
+    "BBA",
+    "BA (Arts)",
+    "BCom (Commerce)",
+    "BSc (Science)",
+    "B.Pharma",
+    "LLB (Bachelor of Laws)",
+    "B.Ed (Bachelor of Education)",
+    "MBBS",
+    "BDS (Bachelor of Dental Surgery)",
+    "BHMS (Bachelor of Homeopathic Medicine & Surgery)",
+    "BAMS (Bachelor of Ayurvedic Medicine & Surgery)",
+    "B.Arch (Architecture)"
+  ],
+  "Post Graduate": [
+    "M.Tech",
+    "MCA",
+    "MBA",
+    "MA",
+    "MCom",
+    "MSc",
+    "M.Pharma",
+    "LLM (Master of Laws)",
+    "M.Ed (Master of Education)",
+    "MD (Doctor of Medicine)",
+    "MS (Master of Surgery)",
+    "MDS (Master of Dental Surgery)",
+    "PhD (Doctor of Philosophy)",
+    "M.Phil (Master of Philosophy)"
+  ],
+  "Vocational": [
+    "Certificate in Data Entry",
+    "Certificate in Digital Marketing",
+    "Certificate in Graphic Designing",
+    "Certificate in Web Development",
+    "Certificate in Tally",
+    "Advanced Excel",
+    "Typing (English/Hindi)",
+    "Office Administration",
+    "Travel and Tourism"
+  ],
+  "Other Certifications": [
+    "AWS Certification",
+    "Microsoft Certified Solutions Expert (MCSE)",
+    "Certified Ethical Hacker (CEH)",
+    "Cisco Certified Network Associate (CCNA)",
+    "Google IT Support Professional Certificate",
+    "Project Management Professional (PMP)",
+    "Certified Financial Planner (CFP)"
+  ]
+}
